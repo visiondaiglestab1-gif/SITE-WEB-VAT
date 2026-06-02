@@ -1,0 +1,570 @@
+{
+    "stats": {
+        "id": 1,
+        "visitors_count": 108,
+        "sermons_count_mega_manual": 80,
+        "sermons_count_degoo_manual": 80,
+        "last_updated": "2026-04-30 19:03:21"
+    },
+    "subscribers": [
+        {
+            "id": 1,
+            "first_name": "Administrateur",
+            "last_name": "Vision",
+            "email": "visiondaigles.tab1@gmail.com",
+            "phone": "+242066293093",
+            "password": "$2y$10$fvhLoaE9STRisjmSbDbu9uDbnQzKX6MVQmN\/X72UomuLpLVwPcvIW",
+            "is_newsletter": 1,
+            "status": "approved",
+            "role": "admin",
+            "email_validated": 1,
+            "validation_token": null,
+            "reset_token": null,
+            "reset_expires": null,
+            "subscribed_at": "2026-04-30 10:00:00",
+            "approved_at": "2026-04-30 10:00:00"
+        },
+        {
+            "id": 2,
+            "first_name": "Marthe",
+            "last_name": "GANZILA",
+            "email": "mb.marthe07@gmail.com",
+            "phone": "055070592",
+            "password": "$2y$10$z2Too0iIhzOfR4g6ekuWtu\/P\/V1L.BMKiLcjt.gqCIgwIgAv3sbka",
+            "is_newsletter": 1,
+            "status": "approved",
+            "role": "user",
+            "email_validated": 0,
+            "validation_token": null,
+            "reset_token": null,
+            "reset_expires": null,
+            "subscribed_at": "2026-04-30 19:10:10",
+            "approved_at": "2026-04-30 19:11:06"
+        },
+        {
+            "id": 3,
+            "first_name": "Rubiel  Jabien",
+            "last_name": "GANZILA",
+            "email": "nh.rubiel@gmail.com",
+            "phone": "055684041",
+            "password": "$2y$10$hcav8kjI2sL5CFmKgaDGdutaGN1cO8qh7mrY\/KfK5z2DYCyqXKJdK",
+            "is_newsletter": 1,
+            "status": "approved",
+            "role": "user",
+            "email_validated": 0,
+            "validation_token": "aaa51369d3f8a859be68fb19e646915144443596198962c719fc8de4420c2276",
+            "reset_token": null,
+            "reset_expires": null,
+            "subscribed_at": "2026-05-01 11:16:41",
+            "approved_at": "2026-05-01 14:22:09",
+            "is_blocked": 0
+        },
+        {
+            "id": 4,
+            "first_name": "Lionel",
+            "last_name": "Koho",
+            "email": "lothdiban@gmail.com",
+            "phone": "+333517266302",
+            "password": "$2y$10$sPxpI2.JD4ntSLefLCwgWe4WqjfNYw9GFTbfbc2X8ihMXFG8uekWC",
+            "is_newsletter": 1,
+            "status": "approved",
+            "role": "user",
+            "email_validated": 0,
+            "validation_token": "cd54f3aa1cdfe4ce8342fa96168d12374498f896aada5f9f69430db58081c8aa",
+            "reset_token": null,
+            "reset_expires": null,
+            "subscribed_at": "2026-05-01 11:54:34",
+            "approved_at": "2026-05-01 14:25:31",
+            "is_blocked": 0
+        }
+    ],
+    "sermons": [],
+    "announcements": [
+        {
+            "id": 1,
+            "title": "FIN DU CHAMP MISSIONNAIRE A ZANAGA",
+            "content": "Nous vous informons la fin du champ Missionnaire \u00e0 Zanaga et nous remercions tous les enfants de Dieu qui ont particip\u00e9s \u00e0 la r\u00e9ussite de celui-ci par leurs apports multiformes. Que Le Seigneur J\u00e9sus-Christ rende \u00e0 chacun de vous au centuple. SHALOM",
+            "author": "Administrateur Vision",
+            "is_active": 1,
+            "is_notified": 0,
+            "created_at": "2026-06-02 14:13:04"
+        }
+    ],
+    "notifications": [
+        {
+            "id": 1,
+            "type": "announcement",
+            "reference_id": 1,
+            "message": "Nouvelle annonce : FIN DU VOYAGE MISSIONNAIRE A MAKABANA",
+            "is_read": 0,
+            "created_at": "2026-04-30 16:51:31"
+        },
+        {
+            "id": 2,
+            "type": "announcement",
+            "reference_id": 2,
+            "message": "\ud83d\udce2 Nouvelle annonce : FIN DU VOYAGE MISSIONNAIRE A MAKABANA",
+            "is_read": 0,
+            "created_at": "2026-04-30 17:18:42"
+        },
+        {
+            "id": 3,
+            "type": "announcement",
+            "reference_id": 1,
+            "message": "\ud83d\udce2 Nouvelle annonce : FIN DU VOYAGE MISSIONNAIRE A MAKABANA",
+            "is_read": 0,
+            "created_at": "2026-04-30 19:15:26"
+        }
+    ],
+    "visitors": [
+        {
+            "ip": "197.214.239.194",
+            "date": "2026-04-30"
+        },
+        {
+            "ip": "197.214.239.194",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "23.228.131.199",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "66.249.81.167",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "74.125.210.96",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "74.125.210.97",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "74.125.210.98",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "66.249.93.66",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "74.125.212.1",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "74.125.212.2",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "160.113.1.243",
+            "date": "2026-05-01"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-02"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-03"
+        },
+        {
+            "ip": "197.214.239.194",
+            "date": "2026-05-04"
+        },
+        {
+            "ip": "197.214.239.102",
+            "date": "2026-05-05"
+        },
+        {
+            "ip": "197.214.239.102",
+            "date": "2026-05-06"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-06"
+        },
+        {
+            "ip": "197.214.239.102",
+            "date": "2026-05-07"
+        },
+        {
+            "ip": "197.214.239.102",
+            "date": "2026-05-08"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-08"
+        },
+        {
+            "ip": "66.249.81.167",
+            "date": "2026-05-08"
+        },
+        {
+            "ip": "66.249.81.166",
+            "date": "2026-05-08"
+        },
+        {
+            "ip": "74.125.210.96",
+            "date": "2026-05-08"
+        },
+        {
+            "ip": "160.113.21.23",
+            "date": "2026-05-08"
+        },
+        {
+            "ip": "74.125.210.98",
+            "date": "2026-05-08"
+        },
+        {
+            "ip": "74.125.210.97",
+            "date": "2026-05-08"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-09"
+        },
+        {
+            "ip": "160.113.21.33",
+            "date": "2026-05-10"
+        },
+        {
+            "ip": "66.249.93.64",
+            "date": "2026-05-10"
+        },
+        {
+            "ip": "74.125.210.97",
+            "date": "2026-05-10"
+        },
+        {
+            "ip": "74.125.210.96",
+            "date": "2026-05-10"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-10"
+        },
+        {
+            "ip": "197.214.239.102",
+            "date": "2026-05-10"
+        },
+        {
+            "ip": "66.249.81.165",
+            "date": "2026-05-10"
+        },
+        {
+            "ip": "66.102.9.38",
+            "date": "2026-05-10"
+        },
+        {
+            "ip": "197.214.239.102",
+            "date": "2026-05-11"
+        },
+        {
+            "ip": "197.214.239.102",
+            "date": "2026-05-12"
+        },
+        {
+            "ip": "197.214.239.102",
+            "date": "2026-05-13"
+        },
+        {
+            "ip": "102.129.88.234",
+            "date": "2026-05-13"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-13"
+        },
+        {
+            "ip": "66.249.81.165",
+            "date": "2026-05-13"
+        },
+        {
+            "ip": "66.102.9.37",
+            "date": "2026-05-13"
+        },
+        {
+            "ip": "66.102.9.39",
+            "date": "2026-05-13"
+        },
+        {
+            "ip": "66.102.9.38",
+            "date": "2026-05-13"
+        },
+        {
+            "ip": "88.189.128.129",
+            "date": "2026-05-14"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-15"
+        },
+        {
+            "ip": "40.77.167.35",
+            "date": "2026-05-15"
+        },
+        {
+            "ip": "66.249.93.64",
+            "date": "2026-05-15"
+        },
+        {
+            "ip": "74.125.210.98",
+            "date": "2026-05-15"
+        },
+        {
+            "ip": "74.125.210.97",
+            "date": "2026-05-15"
+        },
+        {
+            "ip": "119.13.86.68",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "183.87.32.19",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "159.138.34.196",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "50.203.161.7",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "66.249.93.64",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "74.125.210.98",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "64.233.172.138",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "64.233.172.139",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "64.233.172.137",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "63.117.215.11",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "197.214.239.244",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "160.113.21.57",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "41.75.72.148",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "197.214.239.50",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "197.214.239.160",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "197.214.239.204",
+            "date": "2026-05-16"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-17"
+        },
+        {
+            "ip": "197.214.239.116",
+            "date": "2026-05-17"
+        },
+        {
+            "ip": "160.113.21.57",
+            "date": "2026-05-17"
+        },
+        {
+            "ip": "41.75.65.34",
+            "date": "2026-05-17"
+        },
+        {
+            "ip": "102.141.53.20",
+            "date": "2026-05-17"
+        },
+        {
+            "ip": "52.167.144.222",
+            "date": "2026-05-18"
+        },
+        {
+            "ip": "160.113.1.228",
+            "date": "2026-05-18"
+        },
+        {
+            "ip": "197.214.239.123",
+            "date": "2026-05-18"
+        },
+        {
+            "ip": "197.214.239.41",
+            "date": "2026-05-18"
+        },
+        {
+            "ip": "66.249.81.167",
+            "date": "2026-05-18"
+        },
+        {
+            "ip": "66.102.9.37",
+            "date": "2026-05-18"
+        },
+        {
+            "ip": "66.102.9.39",
+            "date": "2026-05-18"
+        },
+        {
+            "ip": "66.102.9.38",
+            "date": "2026-05-18"
+        },
+        {
+            "ip": "40.77.167.70",
+            "date": "2026-05-19"
+        },
+        {
+            "ip": "197.214.239.123",
+            "date": "2026-05-19"
+        },
+        {
+            "ip": "197.214.239.83",
+            "date": "2026-05-19"
+        },
+        {
+            "ip": "209.191.218.133",
+            "date": "2026-05-19"
+        },
+        {
+            "ip": "52.167.144.225",
+            "date": "2026-05-20"
+        },
+        {
+            "ip": "102.141.51.143",
+            "date": "2026-05-20"
+        },
+        {
+            "ip": "197.214.239.123",
+            "date": "2026-05-20"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-20"
+        },
+        {
+            "ip": "197.214.239.123",
+            "date": "2026-05-21"
+        },
+        {
+            "ip": "197.214.239.123",
+            "date": "2026-05-22"
+        },
+        {
+            "ip": "102.141.36.99",
+            "date": "2026-05-22"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-23"
+        },
+        {
+            "ip": "102.141.54.10",
+            "date": "2026-05-24"
+        },
+        {
+            "ip": "66.249.93.66",
+            "date": "2026-05-24"
+        },
+        {
+            "ip": "66.249.93.65",
+            "date": "2026-05-24"
+        },
+        {
+            "ip": "66.249.93.64",
+            "date": "2026-05-24"
+        },
+        {
+            "ip": "160.113.21.45",
+            "date": "2026-05-26"
+        },
+        {
+            "ip": "66.249.65.32",
+            "date": "2026-05-26"
+        },
+        {
+            "ip": "66.249.65.33",
+            "date": "2026-05-26"
+        },
+        {
+            "ip": "66.249.65.34",
+            "date": "2026-05-26"
+        },
+        {
+            "ip": "102.141.50.138",
+            "date": "2026-05-27"
+        },
+        {
+            "ip": "102.141.51.5",
+            "date": "2026-05-27"
+        },
+        {
+            "ip": "197.214.239.165",
+            "date": "2026-05-29"
+        },
+        {
+            "ip": "197.214.239.165",
+            "date": "2026-05-30"
+        },
+        {
+            "ip": "197.214.239.165",
+            "date": "2026-05-31"
+        },
+        {
+            "ip": "102.141.50.138",
+            "date": "2026-06-02"
+        },
+        {
+            "ip": "160.3.24.37",
+            "date": "2026-06-02"
+        }
+    ],
+    "site_settings": {
+        "homepage": {
+            "hero_title": "Vision d'Aigles Tabernacle",
+            "hero_text": "\u00c0 aucun instant je n'apporte aux gens un message pour les pousser \u00e0 me suivre ou \u00e0 se rattacher \u00e0 mon assembl\u00e9e, ou \u00e0 fonder un groupe, une organisation. Je n'ai jamais fait cela, et je ne le ferai pas maintenant. Je n'ai pas d'int\u00e9r\u00eat pour ces choses. J'ai, en revanche, un int\u00e9r\u00eat pour les choses de Dieu et pour les gens, et je serai satisfait si je peux r\u00e9aliser une seule chose. Cette chose, c'est de voir s'\u00e9tablir une relation spirituelle v\u00e9ritable entre Dieu et les hommes, dans laquelle les hommes deviennent de nouvelles cr\u00e9atures en Christ, remplis de Son Esprit, et vivant selon Sa Parole. J'adresse \u00e0 tous une invitation, un appel et un avertissement, pour que vous \u00e9coutiez Sa voix maintenant m\u00eame, et que vous Lui abandonniez enti\u00e8rement votre vie, comme je suis certain de Lui avoir abandonn\u00e9 tout ce que j'ai. Que Dieu vous b\u00e9nisse, et que Sa venue r\u00e9jouisse votre c\u0153ur. \u00bb \u2014 R\u00e9v. William Marrion Branham",
+            "pastor_name": "ARTHUR G\u00c9D\u00c9ON MOUZITA MAYOULOU",
+            "pastor_title": "Fondateur & Pasteur Principal",
+            "pastor_bio": "Homme de Dieu,Carismatique, Visionnaire et D\u00e9vou\u00e9 au Travail du Seigneur JESUS-CHRIST, Portant la Parole de Vie, Vase utile et propre \u00e0 toutes bonnes oeuvres.",
+            "pastor_quote": "Notre vision est de voir l'Epouse de CHRIST jouir de sa position et de ses privil\u00e8ges dans le minist\u00e8re qui est sienne en ces derniers jours",
+            "last_updated": "2026-05-01 03:29:26"
+        },
+        "app": {
+            "version": "1.0.0",
+            "apk_path": "https:\/\/upload.app\/download\/vision-d\/com.visiondaigles.app\/723c33c39a8d09512f20cab12cc8ce2346bd6b10287e409ac0615a25d902b84b",
+            "last_update": "2026-05-16 10:00:00",
+            "changelog": "Premi\u00e8re version de l'application"
+        }
+    }
+}
